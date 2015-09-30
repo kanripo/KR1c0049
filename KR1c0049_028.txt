@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩稽古編
-#+DATE: 2015-09-23 09:37:06
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:06:24.552202
+#+PROPERTY: ID KR1c0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR1c0049_WYG_028-1a>¶
 欽定四庫全書¶
 　毛詩稽古編卷二十八¶
@@ -722,4 +724,3 @@
 賤鱣也今鱘魚味甚美較黄魚實勝云¶
 　¶
 　毛詩稽古編卷二十八¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩稽古編
-#+DATE: 2015-09-23 09:37:06
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:06:24.188807
+#+PROPERTY: ID KR1c0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1c0049_WYG_011-1a>¶
 欽定四庫全書¶
 　毛詩稽古編卷十一¶
@@ -416,4 +418,3 @@
 此傳云驅禽於王之左右句法較完成然玩孔疏則於¶
 王二字乃李所益也¶
 　毛詩稽古編卷十一¶
-

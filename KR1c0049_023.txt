@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩稽古編
-#+DATE: 2015-09-23 09:37:06
-#+PROPERTY: JUAN 23
+#+DATE: 2015-08-24 22:06:24.437227
+#+PROPERTY: ID KR1c0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十三
 <pb:KR1c0049_WYG_023-1a>¶
 欽定四庫全書¶
 　毛詩稽古編卷二十三¶
@@ -848,4 +850,3 @@
 誠有之然掊乃把取義與詩掊克義同非此三詩之掊¶
 又字或作襃襃乃襃揚字博毛切當是借用¶
 　毛詩稽古編卷二十三¶
-

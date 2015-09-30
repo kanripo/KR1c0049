@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩稽古編
-#+DATE: 2015-09-23 09:37:06
-#+PROPERTY: JUAN 19
+#+DATE: 2015-08-24 22:06:24.348818
+#+PROPERTY: ID KR1c0049
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十九
 <pb:KR1c0049_WYG_019-1a>¶
 欽定四庫全書¶
 　毛詩稽古編卷十九¶
@@ -506,4 +508,3 @@
 　¶
 　¶
 　毛詩稽古編卷十九¶
-
